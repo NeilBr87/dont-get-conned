@@ -1,0 +1,8 @@
+#topNavBar {
+    background-color: #f5f5f5;
+    display: flex;
+    flex-direction: row;
+    font-size: 14px;
+    gap: 2vw;
+    padding-left: 3vw;
+}

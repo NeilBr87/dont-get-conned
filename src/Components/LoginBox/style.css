@@ -1,0 +1,44 @@
+#loginBox {
+    background-color: #e31837;
+    width: 22vw;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+    color: white;
+}
+
+#checkboxContainer {
+        display: flex;
+    flex-direction: row;
+    margin-left: 4%;
+}
+
+.loginInput {
+    width: 90%;
+    align-self: center;
+    height: 40px;
+    border-radius: 6px;
+    border: 1.2px solid black;
+}
+
+#userIDcheckbox {
+    width: 30px;
+}
+
+#logIn {
+    align-self: center;
+    width: 90%;
+    background-color: #012169;
+    font-size: 20px;
+    color: white;
+    border-radius: 25px;
+    border: none;
+    padding-top: 7px;
+    padding-bottom: 7px;
+}
+
+#openAccount {
+    width: 100%;
+    background-color: #c41230;
+}
