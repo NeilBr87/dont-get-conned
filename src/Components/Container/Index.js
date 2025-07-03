@@ -13,10 +13,10 @@ export default function Container() {
 
       <div>
 
-        {!scammed && <div>
+        {!scammed && <div style={{width: '80vw', marginLeft: '10vw'}}>
           <TopNavBar />
           <img
-            style={{ width: '24vw', display: 'block', paddingLeft: '3vw'}}
+            style={{ width: '14vw', display: 'block', paddingLeft: '3vw'}}
             src="https://www1.bac-assets.com/homepage/spa-assets/images/assets-images-global-logos-bac-logo-v2-CSX3648cbbb.svg"
             alt="logo"
           />

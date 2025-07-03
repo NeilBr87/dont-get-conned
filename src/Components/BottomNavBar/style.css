@@ -1,7 +1,7 @@
 #bottomBar {
     display: flex;
     flex-direction: row;
-    font-size: 18px;
+    font-size: 14px;
     gap: 6vw;
     padding-left: 3vw;
 }
