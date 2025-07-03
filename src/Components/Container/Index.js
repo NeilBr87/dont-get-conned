@@ -5,6 +5,7 @@ import LoginBox from '../LoginBox/Index';
 import CardBox from '../CardBox/Index';
 import Scam from '../Scam/Index'
 import './style.css'
+import BottomContent from '../BottomContent/Index';
 export default function Container() {
 
     const [scammed, setScammed] = useState(false)
@@ -25,6 +26,8 @@ export default function Container() {
             <LoginBox setScammed={setScammed} />
             <CardBox />
           </div>
+
+          <BottomContent />
             
         </div>}
 

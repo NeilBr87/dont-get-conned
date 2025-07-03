@@ -1,0 +1,38 @@
+#bcOuter {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    gap: 4vw;
+}
+
+.bcInnerRow {
+    display: flex;
+    flex-direction: row;
+    width: 32vw;
+    height: 28vh;
+}
+
+.bcInnerCol {
+        display: flex;
+    flex-direction: column;
+    align-items: baseline;
+    justify-content: center;
+    text-align: left;
+}
+
+#newCheckingOffer {
+    width: 20vw;
+
+}
+
+#bcRight {
+    background: url(https://www2.bac-assets.com/homepage/spa-assets/images/assets-images-site-hp-assets-super-highlights-enterprise-en-special-olympics-ent_shl_bmh_champs_5963738_722_gc.webp)
+}
+
+#bcZIndex {
+    background-color: white;
+    width: 50%;
+    margin-left: 20%;
+    padding: 20px
+}
