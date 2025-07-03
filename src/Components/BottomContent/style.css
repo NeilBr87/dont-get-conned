@@ -3,13 +3,13 @@
     flex-direction: row;
     justify-content: center;
     align-items: center;
-    gap: 4vw;
+    gap: 1vw;
 }
 
 .bcInnerRow {
     display: flex;
     flex-direction: row;
-    width: 32vw;
+    width: 34vw;
     height: 28vh;
 }
 
